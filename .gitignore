@@ -19,3 +19,6 @@ reports/
 .project
 .classpath
 .scala_dependencies
+*.tar.gz
+*.tar
+*.gz
